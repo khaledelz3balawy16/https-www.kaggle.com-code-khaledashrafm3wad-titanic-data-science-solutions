@@ -1,1 +1,2 @@
-# https-www.kaggle.com-code-khaledashrafm3wad-titanic-data-science-solutions
+I am Khaled Ashraf, and I have updated the notebook originally created by Manav Sehgal. Instead of filling missing age values based on passenger class, I used titles such as "Mr," "Mrs," etc., for more accurate imputation. This method reflects specific age distributions for each title. Additionally, I assessed the model using both training and test scores to avoid misleading conclusions, unlike the original notebook that relied solely on training scores. I also included visualizations to clarify the relationships between features and the target variable
+https://www.kaggle.com/code/khaledashrafm3wad/titanic-data-science-solutions
